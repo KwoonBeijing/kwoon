@@ -1,0 +1,12 @@
+practice to control ourselves when we see mistakes
+good number of people
+language provide constructs for just what we imagine
+TDD
+everyone programmed
+
+---
+
+complicated setup
+timer not so convenient
+not clear when red/green state
+
